@@ -59,9 +59,9 @@ The cleaned file is provided as:
 
 ## Repository Structure
 
-- `ecommerce_clean.xlsb` – cleaned Excel dataset  
-- `README.md` – project documentation  
-- `images/` – screenshots (to be added)
+- [ecommerce_clean.xlsb](ecommerce_clean.xlsb) – cleaned Excel dataset  
+- [README.md](README.md) – project documentation  
+- [images/](images) – screenshots used in the analysis  
 
 ---
 
@@ -85,7 +85,7 @@ I chose this project to strengthen my ability to:
 - extract business-relevant KPIs,  
 - communicate insights clearly and visually.
 
-This is the type of analytical work I enjoy — taking something chaotic and turning it into something meaningful and actionable.
+This is the type of analytical work I enjoy - taking something chaotic and turning it into something meaningful and actionable.
 
 ---
 
