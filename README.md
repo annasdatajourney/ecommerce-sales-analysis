@@ -59,9 +59,9 @@ The cleaned file is provided as:
 
 ## Repository Structure
 
-├── ecommerce_clean.xlsb      # Cleaned Excel dataset
-├── README.md                 # Project documentation
-└── /images                   # Screenshots (to be added)
+- `ecommerce_clean.xlsb` – cleaned Excel dataset  
+- `README.md` – project documentation  
+- `images/` – screenshots (to be added)
 
 ---
 
