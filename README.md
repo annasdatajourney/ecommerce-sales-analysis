@@ -65,6 +65,19 @@ The cleaned file is provided as:
 
 ---
 
+## Screenshots
+
+### Cleaned Dataset
+![Clean Data](images/clean_data.jpg)
+
+### Countries by Total Revenue (£)
+![Countries by Revenue](images/countries_by_revenue.jpg)
+
+### Top Products by Total Revenue (£)
+![Top Products by Revenue](images/top_products_by_revenue.jpg)
+
+---
+
 ## Why This Project?
 
 I chose this project to strengthen my ability to:
